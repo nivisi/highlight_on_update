@@ -1,0 +1,21 @@
+name: highlight_on_update
+description: A Text widget that highlights itself when getting updated.
+version: 0.0.1
+repository: https://github.com/nivisi/highlight_on_update
+homepage: https://github.com/nivisi/highlight_on_update
+issue_tracker: https://github.com/nivisi/highlight_on_update/issues
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
