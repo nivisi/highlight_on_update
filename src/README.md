@@ -4,11 +4,15 @@
 
 <img width=300 src="https://user-images.githubusercontent.com/33932162/174478855-dd13f305-ef44-4a00-b98e-198a1513d3ba.gif"/>
 
+## Example
+
+Check out the [example](https://github.com/nivisi/highlight_on_update/blob/develop/example/lib/main.dart).
+
 ## Getting started
 
 ### pub
 
-Add packages to pubspec.yaml:
+Add the package to pubspec.yaml:
 
 ```
 dependencies:
@@ -32,8 +36,8 @@ Row(
 ),
 ```
 
-For a show case, check the example.
+_TODO: Describe params and theming..._
 
 <!-- References -->
-[pub-version-img]: https://img.shields.io/badge/pub-v0.0.1-green
+[pub-version-img]: https://img.shields.io/badge/pub-v0.0.1+1-green
 [pub-version-url]: https://pub.dev/packages/highlight_on_update

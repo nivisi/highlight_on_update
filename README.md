@@ -12,7 +12,7 @@ Check out the [example](https://github.com/nivisi/highlight_on_update/blob/devel
 
 ### pub
 
-Add packages to pubspec.yaml:
+Add the package to pubspec.yaml:
 
 ```
 dependencies:
@@ -39,5 +39,5 @@ Row(
 _TODO: Describe params and theming..._
 
 <!-- References -->
-[pub-version-img]: https://img.shields.io/badge/pub-v0.0.1-green
+[pub-version-img]: https://img.shields.io/badge/pub-v0.0.1+1-green
 [pub-version-url]: https://pub.dev/packages/highlight_on_update
