@@ -1,6 +1,6 @@
 name: highlight_on_update
 description: A text widget that is getting highlighted when the text is updated.
-version: 0.0.1+2
+version: 0.0.1+3
 repository: https://github.com/nivisi/highlight_on_update
 homepage: https://github.com/nivisi/highlight_on_update
 issue_tracker: https://github.com/nivisi/highlight_on_update/issues

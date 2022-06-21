@@ -1,3 +1,7 @@
+### 0.0.1+3
+
+Update CHANGELOG
+
 ### 0.0.1+2
 
 Move example to src and update description.
@@ -6,6 +10,6 @@ Move example to src and update description.
 
 Update Readme
 
-## 0.0.1
+### 0.0.1
 
 * TODO: Initial release ✨
