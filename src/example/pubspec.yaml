@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   highlight_on_update:
     path:
-      ../src/
+      ../
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
