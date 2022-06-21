@@ -1,12 +1,12 @@
 # highlight_on_update [![pub version][pub-version-img]][pub-version-url]
 
-🔦 A Text widget that highlights itself when getting updated.
+🔦 A text widget that is getting highlighted when the text is updated.
 
 <img width=300 src="https://user-images.githubusercontent.com/33932162/174478855-dd13f305-ef44-4a00-b98e-198a1513d3ba.gif"/>
 
 ## Example
 
-Check out the [example](https://github.com/nivisi/highlight_on_update/blob/develop/example/lib/main.dart).
+Check out the [example](https://github.com/nivisi/highlight_on_update/blob/develop/src/example/lib/main.dart).
 
 ## Getting started
 
