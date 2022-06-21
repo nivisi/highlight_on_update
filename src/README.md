@@ -39,5 +39,5 @@ Row(
 _TODO: Describe params and theming..._
 
 <!-- References -->
-[pub-version-img]: https://img.shields.io/badge/pub-v0.0.1+1-green
+[pub-version-img]: https://img.shields.io/badge/pub-v0.0.1+2-green
 [pub-version-url]: https://pub.dev/packages/highlight_on_update
