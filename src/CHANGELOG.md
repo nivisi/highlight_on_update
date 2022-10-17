@@ -12,4 +12,4 @@ Update Readme
 
 ### 0.0.1
 
-* TODO: Initial release ✨
+* Initial release ✨
