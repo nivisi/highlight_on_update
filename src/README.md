@@ -39,5 +39,5 @@ Row(
 _TODO: Describe params and theming..._
 
 <!-- References -->
-[pub-version-img]: https://img.shields.io/badge/pub-v0.0.1+3-green
+[pub-version-img]: https://img.shields.io/badge/pub-v0.0.1+3-0175c2?logo=flutter
 [pub-version-url]: https://pub.dev/packages/highlight_on_update
